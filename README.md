@@ -25,9 +25,9 @@
 
 <h4>Programming Languages: </h4>
 <p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/java.png" alt="python" width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/cpp.png" alt="cplusplus" width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/c.png" alt="c" width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/java.png" alt="python" width="60" height="60"/>
 </p>
 
 <h4>Skills and Tools: </h4>
