@@ -56,7 +56,7 @@
 <br />
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mayankchadha16&icon=0&color=12" alt="Visitor Count"/>
+  <img src="https://visitcount.itsvg.in/api?id=tanishashrivas&icon=0&color=12" alt="Visitor Count"/>
 </p>
 
 <!-- ⭐️ From [Tanisha Shrivas](https://github.com/tanishashrivas) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">   -->
