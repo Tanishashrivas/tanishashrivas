@@ -11,7 +11,7 @@
    <a href="https://twitter.com/tanisha_exe">
     <img src="https://img.shields.io/badge/twitter-tanisha_exe-blue">
    </a>
-   <span> <img src="https://komarev.com/ghpvc/?username=tanishashrivas" alt="tanishashrivas"></span>
+<!--    <span> <img src="https://komarev.com/ghpvc/?username=tanishashrivas" alt="tanishashrivas"></span> -->
 </p>
 
 <br />
@@ -52,5 +52,9 @@
 <br />
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanishashrivas&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/tanishashrivas) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishashrivas&layout=compact&theme=buefy&hide_border=true)](https://github.com/tanishashrivas)
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mayankchadha16&icon=0&color=12" alt="Visitor Count"/>
+</p>
 
 ⭐️ From [Tanisha Shrivas](https://github.com/tanishashrivas) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
