@@ -16,7 +16,7 @@
 
 <br />
 
-<img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+<!-- <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" /> -->
 
 - 🌱 I’m currently learning MERN Stack
 - 🔭 I love problem solving. Currently doing DSA in Java.
