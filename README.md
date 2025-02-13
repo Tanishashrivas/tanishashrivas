@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me  
 - 🛠 Currently exploring **Next.js, TypeScript, and Go**  
 - 🏗 Building **real-world projects** while refining my **DSA** skills  
-- ⚡ Always up for discussions on **system design, backend engineering, or web performance**  
+- ⚡ Always up for discussions on **system design, backend engineering, or development**  
 - 📩 Reach me at **[tanishashrivas2003@gmail.com](mailto:tanishashrivas2003@gmail.com)**  
 
 ---
@@ -24,7 +24,7 @@
 ### 📌 Primary Focus  
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Go, Node.js, Express  
-- **Databases:** MongoDB, MySQL  
+- **Databases:** PostgreSQL, MongoDB, MySQL
 - **Languages:** JavaScript, TypeScript, Go, Java  
 
 ---
