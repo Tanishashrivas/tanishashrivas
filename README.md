@@ -18,20 +18,8 @@
 ---
 
 ## 🛠 Technologies & Tools  
-<p align="left">
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/next" alt="Node.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/ts.png" alt="TypeScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/go.png" alt="Go" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/js.png" alt="JavaScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/react.png" alt="React" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/node.png" alt="Node.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/express.png" alt="Express.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/mongo.png" alt="MongoDB" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/mysql.png" alt="MySQL" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/tailwind.png" alt="Tailwind CSS" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/git.png" alt="Git" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/github.png" alt="GitHub" width="60" height="60"/>
-</p>
+[![Technologies & Tools](https://skillicons.dev/icons?i=nextjs,typescript,react,go,yarn,vscode,postgresql,css,express,github,html,mysql,nodejs,tailwind,mongodb,javascript,java,pnpm)](https://skillicons.dev)
+
 
 ### 📌 Primary Focus  
 - **Frontend:** React, Next.js, Tailwind CSS  
