@@ -1,8 +1,7 @@
-<!-- Dynamic Typing Effect -->
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Tanisha+Shrivas!; 
- Open+to+collaborations+and+new+ideas!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Tanisha+Shrivas!;Exploring+Next.js%2C+TypeScript%2C+Go+%26+more!;Open+to+collaborations+and+new+ideas!"/>
 </h1>
+
 
 <p align="center">
   <strong>I'm a developer focusing on building dynamic web applications with Next.js, refining my TypeScript skills, and diving into Go for backend services.</strong>
@@ -34,7 +33,7 @@
 **Primary Focus**  
 - **Frontend:** React, Next.js, Tailwind CSS  
 - **Backend:** Go, Node.js, Express  
-- **Databases:** MongoDB, MySQL, Postgres  
+- **Databases:** MongoDB, MySQL  
 - **Languages:** JavaScript, TypeScript, Go, Java
 
 ## GitHub Stats
