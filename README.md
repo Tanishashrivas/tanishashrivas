@@ -1,12 +1,8 @@
 <!-- Dynamic Typing Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Tanisha+Shrivas!;Open+to+collaborations+and+new+ideas!"/>
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&center=true&vCenter=true&width=550&lines=Hey+there%2C+I'm+Tanisha+Shrivas!; 
+ Open+to+collaborations+and+new+ideas!"/>
 </h1>
-
-<!-- Optional wave GIF or any small intro emoji -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"/>
-</p>
 
 <p align="center">
   <strong>I'm a developer focusing on building dynamic web applications with Next.js, refining my TypeScript skills, and diving into Go for backend services.</strong>
