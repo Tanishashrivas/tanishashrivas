@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&vCenter=true&width=550&lines=🙋‍♀️ Hey+there!+I'm+Tanisha+Shrivas+🚀;Open+to+new+opportunities+%26+collaborations!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&vCenter=true&width=550&lines=Hey+there!+I'm+Tanisha+Shrivas+🚀;Open+to+new+opportunities+%26+collaborations!"/>
 </h1>
 <br />
 <p align="left">
