@@ -1,12 +1,13 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&vCenter=true&width=600&lines=🚀+Hey+there!+I'm+Tanisha+Shrivas!+💻;⚡+Developer+|+Open+to+collaborations!+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&vCenter=true&width=600&lines=🚀+Hey+there!+I'm+Tanisha+Shrivas!+💻;⚡+Developer+|+Open+to+collaborations!!!+🚀"/>
 </h1>
+
+<br />
 
 <p align="left">
   <strong>💡 I'm a developer focusing on building dynamic web applications with Next.js, refining my TypeScript skills, and diving into Go for backend services.</strong>
 </p>
 
----
 
 ### 👨‍💻 About Me  
 - 🛠 Currently exploring **Next.js, TypeScript, and Go**  
