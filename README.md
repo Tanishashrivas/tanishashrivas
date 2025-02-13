@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&vCenter=true&width=600&lines=🚀+Hey+there!+I'm+Tanisha+Shrivas!+💻;⚡+Developer+|+Open+to+collaborations!!!+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&vCenter=true&width=600&lines=🚀+Hey+there!+I'm+Tanisha+Shrivas!+💻;⚡+Open+to+collaborations!!+🚀"/>
 </h1>
 
 <br /><br />
@@ -19,10 +19,11 @@
 
 ## 🛠 Technologies & Tools  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/js.png" alt="JavaScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/react.png" alt="React" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/next" alt="Node.js" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/ts.png" alt="TypeScript" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/go.png" alt="Go" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/js.png" alt="JavaScript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/react.png" alt="React" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/node.png" alt="Node.js" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/express.png" alt="Express.js" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/tanishashrivas/tanishashrivas/main/icons/mongo.png" alt="MongoDB" width="60" height="60"/>
