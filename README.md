@@ -1,9 +1,9 @@
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&vCenter=true&width=550&lines=Hey+there!+I'm+Tanisha+Shrivas+🚀;Building+cool+stuff+with+Next.js%2C+TypeScript%2C+Go!;Open+to+new+opportunities+%26+collaborations!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&vCenter=true&width=550&lines=🙋‍♀️ Hey+there!+I'm+Tanisha+Shrivas+🚀;Open+to+new+opportunities+%26+collaborations!"/>
 </h1>
-
+<br />
 <p align="left">
-  <strong>💡 Passionate about building scalable web applications with Next.js and TypeScript while exploring Go for backend services.</strong>
+<strong>I'm a developer focusing on building dynamic web applications with Next.js, refining my TypeScript skills, and diving into Go for backend services.</strong>
 </p>
 
 <br/>
