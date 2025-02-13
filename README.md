@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2F80ED&vCenter=true&width=600&lines=🚀+Hey+there!+I'm+Tanisha+Shrivas!+💻;⚡+Developer+|+Open+to+collaborations!!!+🚀"/>
 </h1>
 
-<br />
+<br /><br />
 
 <p align="left">
   <strong>💡 I'm a developer focusing on building dynamic web applications with Next.js, refining my TypeScript skills, and diving into Go for backend services.</strong>
@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/Twitter-tanisha_exe-blue" alt="Twitter" />
   </a>
   <br/>
-  📩 **Email:** [tanishashrivas2003@gmail.com](mailto:tanishashrivas2003@gmail.com)  
+  
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=tanishashrivas" alt="Profile Views" />
 </p>
